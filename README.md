@@ -15,3 +15,8 @@ BioRxiv 2023, (https://www.biorxiv.org/content/10.1101/2023.12.15.571749v1).
 ____
 
 All raw data in the manuscript was processed largely following the workflow described in Markodimitraki, Rang et al., 2020, available at https://github.com/KindLab/scDamAndTools, with few modifications described in the pipeline directory of this repository. 
+
+
+____
+
+[View the document](notebooks/damchic_figure1.ipynb)
