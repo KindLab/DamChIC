@@ -19,4 +19,4 @@ All raw data in the manuscript was processed largely following the workflow desc
 
 ____
 
-[Download the document](notebooks/damchic_figure1.ipynb)
+[Download the document](figure1.pdf)
